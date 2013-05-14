@@ -3,10 +3,7 @@ public class TestClass {
 	  public static void main() {
 	    System.out.println("Hello World!!!!!!!!!!!!!!!");
 	  }
-	  public void branch_b12() {
-	    System.out.println("Hello World!!!!!!!!!!!!!!!");
-	  }
-	   public void branch_b2() {
+	  public void branch_b1() {
 	    System.out.println("Hello World!!!!!!!!!!!!!!!");
 	  }
      
